@@ -1,0 +1,2 @@
+### Hexlet tests and linter status:
+[![Actions Status](https://github.com/usernamenumb1/qa-auto-engineer-javascript-project-84/workflows/hexlet-check/badge.svg)](https://github.com/usernamenumb1/qa-auto-engineer-javascript-project-84/actions)
